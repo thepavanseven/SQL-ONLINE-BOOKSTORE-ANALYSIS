@@ -1,4 +1,13 @@
 -- =============================================================
+-- REQUIREMENTS
+-- =============================================================
+-- Database: PostgreSQL
+-- Client: psql
+--
+-- Run this script from the repository root directory.
+-- The CSV files are located in the data/ folder.
+-- =============================================================
+-- =============================================================
 -- ONLINE BOOKSTORE SQL ANALYSIS
 -- PostgreSQL | Data Analyst Portfolio Project
 -- =============================================================
